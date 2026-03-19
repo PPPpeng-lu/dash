@@ -1,0 +1,6 @@
+platformName: Android
+platformVersion: 12.0
+deviceName: Android Emulator
+app: demo.apk
+automationName: UiAutomator
+noReset: false

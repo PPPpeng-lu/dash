@@ -1,0 +1,6 @@
+submit_button:
+  android:
+    - ['android-uiautomator', 'text("Submit")']
+  ios:
+    - ['accessibility id', 'Submit']
+    - ['ios predicate string', 'label == "Submit"']
